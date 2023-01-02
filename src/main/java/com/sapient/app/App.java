@@ -1,4 +1,4 @@
-package com.sapient.sample_maven_project;
+package com.sapient.app;
 
 /**
  * Hello world!
